@@ -4,6 +4,7 @@
 1. [ ] Download Chrome
 1. [ ] Set default browser to Chrome
 1. [ ] Set display to "More Space"
+1. [ ] Disable automatically setting brightness
 1. [ ] Set shortcuts in sidebar of Finder
 1. [ ] Set Trackpad to tap for left and right click
 1. [ ] Set display to more space
@@ -20,8 +21,11 @@
 
 ### Manual Steps
 
-1. Set wallpaper to Solid Black Colour
-1. Install [Rosetta](https://en.wikipedia.org/wiki/Rosetta_software) which enables the system to run binaries for Intel CPUs transparently.
+1. [ ] Set wallpaper to Solid Black Colour
+1. [ ] Install [Rosetta](https://en.wikipedia.org/wiki/Rosetta_software) which enables the system to run binaries for Intel CPUs transparently.
+1. [ ] System Settings > Date & Time > Show 24-hour time on Lock Screen > [enable]
+1. [ ] System Settings > Language & Region > Preferred Language > English (Australia) [remove en-US]
+1. [ ] System Settings > Language & Region > Date and number formats > 19/08/2025
 
 ```sh
 softwareupdate --install-rosetta --agree-to-license
